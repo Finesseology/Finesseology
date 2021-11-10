@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, my name is Chris and I am a undergraduate Computer Science student.
+
+https://finesseology.com/
 
 <!--
 **Finesseology/Finesseology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

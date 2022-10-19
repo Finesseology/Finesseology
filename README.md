@@ -1,4 +1,4 @@
-## Hello, my name is Chris and I am an undergraduate Computer Science student.
+## Hello, I am Chris and I am an undergraduate Computer Science student @ CSUS.
   
 Programming Languages:
   - Most comfortable with:

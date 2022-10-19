@@ -1,9 +1,9 @@
 ## Hello, I am Chris and I am an undergraduate Computer Science student @ CSUS.
   
 Programming Languages:
-  - Most comfortable with:
+  - Primary Languages:
     - C, C++ and PHP. 
-  - Also have experience with:
+  - Additional languages:
     - Python, Java, Javascript, and HTML.
  
  Background experience:

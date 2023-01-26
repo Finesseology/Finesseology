@@ -9,10 +9,12 @@ Programming Languages:
  Background experience:
   - Platforms:
     - Debian, Arch, Mac OS and Windows based operating systems.
-  - Major API's:
+  - Major API experience:
     - Twilio
     - SendGrid
     - Google's API's
+    - JavaFX
+    - FPDF
   - Usages:
     - Manage Debian based servers, SSL certifications, MySql databases, Wordpress websites, and Google Cloud Console Platforms.
     - Embedded systems programming using C and Python on microprocessor boards such as: BeagleBoard, Raspberry Pi, and Arduino.

@@ -1,10 +1,7 @@
 ## Hello, I am Chris and I am an undergraduate Computer Science student @ CSUS.
   
 Programming Languages:
-  - Primary Languages:
-    - C, C++ and PHP. 
-  - Additional languages:
-    - Python, Java, Javascript, and HTML.
+  - C, C++, Python, PHP, Java, Javascript, and HTML/CSS.
  
  Background experience:
   - Platforms:
@@ -12,7 +9,7 @@ Programming Languages:
   - Major API experience:
     - Twilio
     - SendGrid
-    - Google's API's
+    - Google API's
     - JavaFX
     - FPDF
   - Usages:

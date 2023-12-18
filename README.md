@@ -1,6 +1,6 @@
 ## Hello, I am Chris. I am a Software Engineer and Computer Science Graduate from CSUS
 
-I have been working as a Software Engineer at Geodaq for the past three years where I have built and led software development for API and data communication channels. Under my leadership I have implemented the programming for backend automated data handling, handled database transactions and implemented new data visuals for our front end, client facing websites.
+I have been working as a Software Engineer at Geodaq for the past three years where I have built and led software development for API and data communication channels. I have implemented the programming for backend automated data handling, handled database transactions and implemented new data visuals for our front end, client facing websites.
   
 Programming Languages:
   - C, C++, Python, Java, PHP, Javascript, HTML/CSS and National Instruments LabView.
@@ -22,7 +22,7 @@ Programming Languages:
     - React
   - Major Usages:
     - Full stack and embedded systems development
-    - Managed remote Debian production servers, SSL certifications, SQL databases, and various websites, including Wordpress and Next.js, on Google Cloud Platform, ensuring secure and efficient operations.
+    - Manage remote Debian production servers, SSL certifications, SQL databases, and various websites, including Wordpress and Next.js, on Google Cloud Platform, ensuring secure and efficient operations.
     - Embedded systems software development for C/C++ and Python on microprocessor boards such as: BeagleBoard, Raspberry Pi, Arduino, and Texas Instruments microcontrollers.
 
 

@@ -1,4 +1,4 @@
-## Hello, I am Chris and I am a Software Engineer and Computer Science Graduate from CSUS
+## Hello, I am Chris. I am a Software Engineer and Computer Science Graduate from CSUS
   
 Programming Languages:
   - C, C++, Python, Java, PHP, Javascript, HTML/CSS and National Instruments LabView.

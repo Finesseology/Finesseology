@@ -1,4 +1,6 @@
 ## Hello, I am Chris. I am a Software Engineer and Computer Science Graduate from CSUS
+
+I have been working as a Software Engineer at Geodaq for the past three years where I have built and led software development for API and data communication channels. Under my leadership I have implemented the programming for backend automated data handling, handled database transactions and implemented new data visuals for our front end, client facing websites.
   
 Programming Languages:
   - C, C++, Python, Java, PHP, Javascript, HTML/CSS and National Instruments LabView.
@@ -16,15 +18,13 @@ Programming Languages:
   - Major Frameworks:
     - Node.js
     - Next.js 13
-    - Express
+    - Express.js
+    - React
   - Major Usages:
-    - Full Stack web development with Next.js.
-    - Live web API development and deployment with Javascript and PHP.
-    - Real time communication and emergency alert system with Twilio and SendGrid.
-    - Small but fun 2D top down video game with JavaFX
-    - Manage Debian based servers, SSL certifications, MySql databases, Wordpress websites, and Google Cloud Console Platforms.
-    - Embedded systems programming using C and Python on microprocessor boards such as: BeagleBoard, Raspberry Pi, and Arduino.
-    - Embedded systems programming on Microchip's PIC microcontroller chips.
+    - Full stack and embedded systems development
+    - Managed remote Debian production servers, SSL certifications, SQL databases, and various websites, including Wordpress and Next.js, on Google Cloud Platform, ensuring secure and efficient operations.
+    - Embedded systems software development for C/C++ and Python on microprocessor boards such as: BeagleBoard, Raspberry Pi, Arduino, and Texas Instruments microcontrollers.
+
 
     
 

@@ -20,12 +20,18 @@ Programming Languages:
     - Next.js 13
     - Express.js
     - React
-  - Major Usages:
-    - Full stack and embedded systems development
-    - Manage remote Debian production servers, SSL certifications, SQL databases, and various websites, including Wordpress and Next.js, on Google Cloud Platform, ensuring secure and efficient operations.
-    - Embedded systems software development for C/C++ and Python on microprocessor boards such as: BeagleBoard, Raspberry Pi, Arduino, and Texas Instruments microcontrollers.
+  - Experience with:
+    - Full stack web and server development.
+    - Embedded systems development.
+    - Managing remote Debian production servers, SQL databases, SSL certifications.
+    - Managing production websites using Wordpress and Next.js, on Google Cloud and GoDaddy.
+    - Windows, Windows IoT Enterprise, Mac OS, Debian and Arch based Linux operating systems.
+    - Embedded systems software development with C, C++ and Python on microprocessor boards such as: BeagleBoard, Raspberry Pi, Arduino, and Texas Instruments  microcontrollers.
+    - Communication protocols channels such as UART, SPI, I2C, and GPIO.
+    - Real Time Operating System (ROTS) and IoT devices.
+    - Microchip’s XC compilers, MPLAB X, and programmable PIC microprocessors.
 
 
-    
 
-  Most of my code is private, but feel free to contact me by email or through any of the other contact methods listed on my website.
+  
+  Most of my code and projects are private, but feel free to contact me by email or through any of the other contact methods listed on my website.

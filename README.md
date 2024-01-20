@@ -3,7 +3,7 @@
 I have been working as a Software Engineer at Geodaq for the past three years where I have built and led software development for API and data communication channels. I have implemented the programming for backend automated data handling, handled database transactions and implemented new data visuals for our front end, client facing websites.
   
 Programming Languages:
-  - C, C++, Python, Java, PHP, Javascript, HTML/CSS and National Instruments LabView.
+  - C, C++, Python, Java, PHP, Javascript, HTML/CSS, BASH and National Instruments LabView.
  
 Experience:
   - Full-stack web development (Serverless, LAMP, and MERN stacks)

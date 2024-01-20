@@ -5,32 +5,21 @@ I have been working as a Software Engineer at Geodaq for the past three years wh
 Programming Languages:
   - C, C++, Python, Java, PHP, Javascript, HTML/CSS and National Instruments LabView.
  
- Background experience:
-  - Platforms:
-    - Debian, Arch, Mac OS and Windows based operating systems.
-  - Major API experience:
-    - Twilio
-    - SendGrid
-    - Adafruit CircuitPython
-    - Google API's
-    - JavaFX
-    - FPDF
-  - Major Frameworks:
-    - Node.js
-    - Next.js 13
-    - Express.js
-    - React
-  - Experience with:
-    - Full stack web and server development.
-    - Embedded systems development.
-    - Managing remote Debian production servers, SQL databases, SSL certifications.
-    - Managing production websites using Wordpress and Next.js, on Google Cloud and GoDaddy.
-    - Windows, Windows IoT Enterprise, Mac OS, Debian and Arch based Linux operating systems.
-    - Embedded systems software development with C, C++ and Python on microprocessor boards such as: BeagleBoard, Raspberry Pi, Arduino, and Texas Instruments  microcontrollers.
-    - Communication protocols channels such as UART, SPI, I2C, and GPIO.
-    - Real Time Operating System (ROTS) and IoT devices.
-    - Microchip’s XC compilers, MPLAB X, and programmable PIC microprocessors.
+Experience:
+  - Full-stack web development (Serverless, LAMP, and MERN stacks)
+  - API development (RESTful)
+  - Cloud Server administration and project deployment
+  - Embedded systems development for microprocessors and IoT devices
 
+Major Web Frameworks and Tools:
+  - Google Cloud Platform, Firebase, GoDaddy, Linux Systems, SSL certification, OAuth 2.0
+  - Node.js, React, Express.js, Next.js, Wordpress, Bootstrap, Tailwind CSS, Highcharts, NextAuth
+  - MySQL, MongoDB, Firebase Realtime Database, Git, GitHub, CI/CD, JIRA, Agile development
+  - Twilio (SMS), SendGrid (Email), Google API Library, JavaFX, FPDF, Weather API, CircuitPython
+    
+Embedded Systems:
+  - Arduino, Raspberry Pi, BeagleBoard, Windows IoT Enterprise, Texas Instruments microcontrollers
+  - UART, SPI, I2C, GPIO, Microchip’s XC compilers, MPLAB X, PIC microprocessors
 
 
   

@@ -1,6 +1,6 @@
 ## Hello, I am Chris. I am a Software Engineer and Computer Science Graduate from CSUS
 
-I have been working as a Software Engineer at Geodaq for the past three years where I have built and led software development for API and data communication channels. I have implemented the programming for backend automated data handling, handled database transactions and implemented new data visuals for our front end, client facing websites.
+I have been working as a Software Engineer the past three years where I have built and led software development for a multitude of projects across various platforms. If you wish to learn more, check out my website.
   
 Programming Languages:
   - C, C++, Python, Java, PHP, Javascript, HTML/CSS, BASH and National Instruments LabView.
